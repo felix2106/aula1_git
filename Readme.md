@@ -1,1 +1,2 @@
 # aula1_git
+![Alt text](<Captura de tela 2024-04-12 122152.png>) ![Alt text](<Captura de tela 2024-04-12 122213.png>) ![Alt text](<Captura de tela 2024-04-12 122229.png>) ![Alt text](<Captura de tela 2024-04-12 122110.png>) ![Alt text](<Captura de tela 2024-04-12 122126.png>)
